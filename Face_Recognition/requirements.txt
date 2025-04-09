@@ -1,0 +1,12 @@
+tensorflow==2.13.0
+django
+keras==2.13.1
+scikit-learn
+opencv-python==4.7.0.72
+h5py
+matplotlib
+Pillow
+requests
+psutil
+imageio
+imutils
